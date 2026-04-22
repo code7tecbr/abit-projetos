@@ -1,0 +1,35 @@
+{
+  "label": "Fale conosco",
+  "title": "Vamos",
+  "titleHighlight": "Trabalhar",
+  "titleEnd": "Juntos?",
+  "description": "Entre em contato para solicitar um orçamento ou esclarecer dúvidas. Nossa equipe responde rapidamente.",
+  "items": [
+    {
+      "icon": "fab fa-whatsapp",
+      "label": "Contato",
+      "values": [
+        { "value": "(31) 4113-0506", "href": "tel:+553141130506" },
+        { "value": "(31) 99200-0397", "href": "https://api.whatsapp.com/send?phone=5531992000397" }
+      ]
+    },
+    {
+      "icon": "fas fa-envelope",
+      "label": "E-mail",
+      "value": "contato@abitprojetos.com",
+      "href": "mailto:contato@abitprojetos.com"
+    },
+    {
+      "icon": "fas fa-map-marker-alt",
+      "label": "Localização",
+      "value": "Rua Teófilo Otoni, 379, Sls 1 e 2, Centro, Sete Lagoas/MG",
+      "href": ""
+    },
+    {
+      "icon": "fab fa-instagram",
+      "label": "Instagram",
+      "value": "@abitprojetos",
+      "href": "https://www.instagram.com/abitprojetos/"
+    }
+  ]
+}

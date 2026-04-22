@@ -1,0 +1,39 @@
+{
+  "title": "ABIT Projetos & Engenharia | Soluções em Engenharia",
+  "description": "ABIT Projetos & Engenharia – Excelência em projetos elétricos, hidrossanitários, estruturais e laudos técnicos. Atendimento em todo o Brasil.",
+  "siteUrl": "https://abitprojetos.com",
+  "ogImage": "/images/og-image.jpg",
+  "logoImage": "/logo.png",
+  "whatsappNumber": "5531992000397",
+  "whatsappDefaultMessage": "Olá, vim do site e gostaria de um orçamento!",
+  "instagramUrl": "https://www.instagram.com/abitprojetos/",
+  "linkedinUrl": "https://www.linkedin.com/company/abit-projetos/",
+  "localBusiness": {
+    "name": "ABIT Projetos & Engenharia",
+    "telephone": "+553141130506",
+    "email": "contato@abitprojetos.com",
+    "address": {
+      "streetAddress": "Rua Teófilo Otoni, 379, Sls 1 e 2",
+      "addressLocality": "Sete Lagoas",
+      "addressRegion": "MG",
+      "postalCode": "",
+      "addressCountry": "BR"
+    },
+    "geo": {
+      "latitude": "-19.4683",
+      "longitude": "-44.2478"
+    },
+    "openingHours": "Mo-Fr 08:00-18:00",
+    "priceRange": "$$"
+  },
+  "nav": {
+    "links": [
+      { "label": "Serviços", "href": "#servicos" },
+      { "label": "Sobre", "href": "#sobre" },
+      { "label": "Clientes", "href": "#clientes" },
+      { "label": "Instagram", "href": "#instagram" },
+      { "label": "Contato", "href": "#contato" }
+    ],
+    "ctaLabel": "Solicitar Orçamento"
+  }
+}

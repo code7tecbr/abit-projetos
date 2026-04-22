@@ -1,0 +1,32 @@
+{
+  "label": "Redes Sociais",
+  "title": "Siga no",
+  "titleHighlight": "Instagram",
+  "handle": "@abitprojetos",
+  "url": "https://www.instagram.com/abitprojetos/",
+  "posts": [
+    { "image": "/images/projetos/1.jpg", "url": "https://www.instagram.com/abitprojetos/" },
+    { "image": "/images/projetos/2.jpg", "url": "https://www.instagram.com/abitprojetos/" },
+    { "image": "/images/projetos/3.jpg", "url": "https://www.instagram.com/abitprojetos/" },
+    { "image": "/images/projetos/4.jpg", "url": "https://www.instagram.com/abitprojetos/" },
+    { "image": "/images/projetos/5.jpg", "url": "https://www.instagram.com/abitprojetos/" },
+    { "image": "/images/projetos/6.jpg", "url": "https://www.instagram.com/abitprojetos/" },
+    { "image": "/images/projetos/7.jpg", "url": "https://www.instagram.com/abitprojetos/" },
+    { "image": "/images/projetos/8.jpg", "url": "https://www.instagram.com/abitprojetos/" },
+    { "image": "/images/projetos/9.jpg", "url": "https://www.instagram.com/abitprojetos/" },
+    { "image": "/images/projetos/10.jpg", "url": "https://www.instagram.com/abitprojetos/" },
+    { "image": "/images/projetos/11.jpg", "url": "https://www.instagram.com/abitprojetos/" },
+    { "image": "/images/projetos/12.jpg", "url": "https://www.instagram.com/abitprojetos/" },
+    { "image": "/images/projetos/13.jpg", "url": "https://www.instagram.com/abitprojetos/" },
+    { "image": "/images/projetos/14.jpg", "url": "https://www.instagram.com/abitprojetos/" },
+    { "image": "/images/projetos/15.jpg", "url": "https://www.instagram.com/abitprojetos/" },
+    { "image": "/images/projetos/16.jpg", "url": "https://www.instagram.com/abitprojetos/" },
+    { "image": "/images/projetos/17.jpg", "url": "https://www.instagram.com/abitprojetos/" },
+    { "image": "/images/projetos/18.jpg", "url": "https://www.instagram.com/abitprojetos/" },
+    { "image": "/images/projetos/19.jpg", "url": "https://www.instagram.com/abitprojetos/" },
+    { "image": "/images/projetos/20.jpg", "url": "https://www.instagram.com/abitprojetos/" },
+    { "image": "/images/projetos/21.jpg", "url": "https://www.instagram.com/abitprojetos/" },
+    { "image": "/images/projetos/22.jpg", "url": "https://www.instagram.com/abitprojetos/" },
+    { "image": "/images/projetos/23.jpg", "url": "https://www.instagram.com/abitprojetos/" }
+  ]
+}

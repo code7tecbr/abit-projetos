@@ -1,0 +1,15 @@
+{
+  "label": "Quem somos",
+  "title": "Engenharia com",
+  "titleHighlight": "Precisão e Compromisso",
+  "description": "A ABIT Projetos & Engenharia é um escritório especializado em soluções técnicas para o setor da construção civil e industrial. Nossa equipe de engenheiros certificados alia experiência técnica a tecnologias BIM e CAD de ponta.",
+  "checklist": [
+    "Projetos entregues dentro do prazo e do orçamento acordado",
+    "Responsabilidade técnica com ART em todos os serviços",
+    "Atendimento a construtoras, indústrias e empresas de médio e grande porte",
+    "Plataforma BIM para maior precisão e compatibilização de projetos",
+    "Equipe multidisciplinar para projetos integrados"
+  ],
+  "ctaLabel": "Fale Conosco",
+  "teamPhoto": "/images/quemsomos.png"
+}

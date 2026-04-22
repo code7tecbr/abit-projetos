@@ -1,0 +1,53 @@
+{
+  "label": "O que fazemos",
+  "title": "Nossos",
+  "titleHighlight": "Serviços",
+  "subtitle": "Soluções técnicas completas para empresas e construtoras que exigem excelência.",
+  "items": [
+    {
+      "icon": "fas fa-drafting-compass",
+      "name": "Projeto Arquitetônico",
+      "description": "Desenvolvimento de projetos arquitetônicos residenciais, comerciais e industriais com criatividade, funcionalidade e plena conformidade com as normas técnicas vigentes."
+    },
+    {
+      "icon": "fas fa-building",
+      "name": "Projeto de Estruturas e Fundações em Concreto e Metálicas",
+      "description": "Cálculo e detalhamento de estruturas em concreto armado e metálicas, incluindo fundações rasas e profundas, garantindo segurança, durabilidade e economia de materiais."
+    },
+    {
+      "icon": "fas fa-water",
+      "name": "Projeto de Instalações Hidrossanitárias e de Águas Pluviais",
+      "description": "Projetos completos de instalações hidrossanitárias e de águas pluviais para edificações de todos os portes, com memoriais descritivos e pranchas executivas."
+    },
+    {
+      "icon": "fas fa-bolt",
+      "name": "Projeto de Instalações Elétricas",
+      "description": "Projetos elétricos residenciais, comerciais e industriais em conformidade com as normas ABNT. Dimensionamento de cargas, quadros elétricos e memoriais descritivos."
+    },
+    {
+      "icon": "fas fa-file-alt",
+      "name": "Laudos Técnicos",
+      "description": "Emissão de laudos técnicos, ARTs, relatórios de vistoria e perícias de engenharia com responsabilidade técnica registrada no CREA-MG."
+    },
+    {
+      "icon": "fas fa-hard-hat",
+      "name": "Acompanhamento de Obras",
+      "description": "Fiscalização técnica presencial e remota de obras, garantindo que a execução siga fielmente os projetos aprovados, com controle de qualidade e registro de etapas construtivas."
+    },
+    {
+      "icon": "fas fa-tasks",
+      "name": "Gerenciamento de Obras",
+      "description": "Gestão completa de obras: planejamento, cronograma físico-financeiro, controle de custos, coordenação de equipes e entrega dentro do prazo e do orçamento definido."
+    },
+    {
+      "icon": "fas fa-search-dollar",
+      "name": "Avaliação de Imóveis",
+      "description": "Laudos de avaliação mercadológica e patrimonial de imóveis residenciais, comerciais e industriais, com metodologia NBR 14.653, para fins de compra, venda, financiamento ou inventário."
+    },
+    {
+      "icon": "fas fa-layer-group",
+      "name": "Compatibilização de Projetos",
+      "description": "Análise integrada de todas as disciplinas de projeto — arquitetônico, estrutural, elétrico e hidrossanitário — identificando e eliminando interferências antes da execução da obra."
+    }
+  ]
+}

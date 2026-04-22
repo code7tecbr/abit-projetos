@@ -1,0 +1,32 @@
+{
+  "description": "ABIT Projetos & Engenharia — projetos arquitetônicos, estruturais, elétricos, hidrossanitários e laudos técnicos em Sete Lagoas/MG.",
+  "logoImage": "/logo.png",
+  "socials": [
+    { "icon": "fab fa-instagram", "href": "https://www.instagram.com/abitprojetos/", "title": "Instagram" },
+    { "icon": "fab fa-whatsapp", "href": "https://api.whatsapp.com/send?phone=5531992000397", "title": "WhatsApp" }
+  ],
+  "servicesColumn": {
+    "title": "Serviços",
+    "links": [
+      { "label": "Projeto Arquitetônico", "href": "#servicos" },
+      { "label": "Estruturas e Fundações", "href": "#servicos" },
+      { "label": "Instalações Hidrossanitárias", "href": "#servicos" },
+      { "label": "Instalações Elétricas", "href": "#servicos" },
+      { "label": "Laudos Técnicos", "href": "#servicos" },
+      { "label": "Acompanhamento de Obras", "href": "#servicos" },
+      { "label": "Gerenciamento de Obras", "href": "#servicos" },
+      { "label": "Avaliação de Imóveis", "href": "#servicos" },
+      { "label": "Compatibilização de Projetos", "href": "#servicos" }
+    ]
+  },
+  "quickLinksColumn": {
+    "title": "Links Rápidos",
+    "links": [
+      { "label": "Sobre a ABIT", "href": "#sobre" },
+      { "label": "Nossos Clientes", "href": "#clientes" },
+      { "label": "Instagram", "href": "#instagram" },
+      { "label": "Contato", "href": "#contato" },
+      { "label": "Orçamento", "href": "https://api.whatsapp.com/send?phone=5531992000397", "external": true }
+    ]
+  }
+}

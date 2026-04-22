@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build output
+.output/
+# .nuxt/
+dist/
+.vite/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Cloudflare
+.wrangler/
+.dev.vars
+
+# Alchemy — arquivos de build contêm process.env completo (tokens, secrets)
+.alchemy/**/*-build.json
+
+# Misc
+*.local
+
+# SDD Documentation (local only)
+thoughts/

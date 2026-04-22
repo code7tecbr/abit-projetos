@@ -1,0 +1,92 @@
+{
+  "kind": "cloudflare::Worker",
+  "id": "abit",
+  "fqn": "code7sites/projetos/abit",
+  "seq": 1,
+  "data": {},
+  "status": "updated",
+  "output": {
+    "Symbol(alchemy::ResourceKind)": "cloudflare::Worker",
+    "Symbol(alchemy::ResourceID)": "abit",
+    "Symbol(alchemy::ResourceFQN)": "code7sites/projetos/abit",
+    "Symbol(alchemy::ResourceScope)": {
+      "@scope": null
+    },
+    "Symbol(alchemy::ResourceSeq)": 1,
+    "apiToken": {
+      "@secret": {
+        "version": "v1",
+        "ciphertext": "+Qo24m/RIYFXZflaMNPQuNK/EjM0gA6R7C1tDtYXJ7NTWwDLxMRqb4x6PkHRrfwEZOVtGj4=",
+        "iv": "19fc7voOuItfMiMg",
+        "salt": "5jWR2vvHi2LzOL0jBMg7jg==",
+        "tag": "zBBCnBMmpxuteVTjRnECFQ=="
+      }
+    },
+    "noBundle": true,
+    "compatibility": "node",
+    "entrypoint": ".output/server/index.mjs",
+    "name": "code7sites-abit-projetos",
+    "cwd": "",
+    "compatibilityFlags": [
+      "nodejs_compat",
+      "nodejs_compat_populate_process_env"
+    ],
+    "compatibilityDate": "2026-03-10",
+    "assets": {
+      "html_handling": "auto-trailing-slash",
+      "not_found_handling": "single-page-application",
+      "run_worker_first": false
+    },
+    "bindings": {
+      "ASSETS": {
+        "type": "assets",
+        "path": ".output/public"
+      }
+    },
+    "dev": {
+      "hasRemote": true
+    },
+    "type": "service",
+    "id": "abit",
+    "format": "esm",
+    "createdAt": {
+      "@date": "2026-04-21T12:43:41.490Z"
+    },
+    "updatedAt": {
+      "@date": "2026-04-22T01:16:40.101Z"
+    },
+    "url": "https://code7sites-abit-projetos.code7tec.workers.dev"
+  },
+  "props": {
+    "apiToken": {
+      "@secret": {
+        "version": "v1",
+        "ciphertext": "9Sj63OsaHC36QelMjPcCc14FlcbTXdBGj7C9TcBMyJlzjmYssigAjLItnI8yxvuhBJWspXM=",
+        "iv": "UnCReOxc4RCInUtW",
+        "salt": "B+ZoIrP161HToc679Kr2Xw==",
+        "tag": "3vo9RhljB/Lxd76GEeFIFg=="
+      }
+    },
+    "noBundle": true,
+    "compatibility": "node",
+    "entrypoint": ".output/server/index.mjs",
+    "name": "code7sites-abit-projetos",
+    "cwd": "",
+    "compatibilityFlags": [
+      "nodejs_compat",
+      "nodejs_compat_populate_process_env"
+    ],
+    "compatibilityDate": "2026-03-10",
+    "assets": {
+      "html_handling": "auto-trailing-slash",
+      "not_found_handling": "single-page-application",
+      "run_worker_first": false
+    },
+    "bindings": {
+      "ASSETS": {
+        "type": "assets",
+        "path": ".output/public"
+      }
+    }
+  }
+}
