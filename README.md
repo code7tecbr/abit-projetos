@@ -1,3 +1,5 @@
+![Code7](https://img.shields.io/badge/Code7%20My--Sites-V1.1-red?style=flat&logo=github&logoColor=white)
+
 # ABIT Projetos & Engenharia — Guia de Edição do Site
 
 Este guia explica como editar todos os textos e imagens do site sem precisar mexer no código.
