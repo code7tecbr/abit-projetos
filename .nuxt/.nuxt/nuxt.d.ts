@@ -1,5 +1,5 @@
-/// <reference types="nuxt-gtag" />
 /// <reference types="@nuxtjs/sitemap" />
+/// <reference types="nuxt-gtag" />
 /// <reference types="@nuxt/devtools" />
 /// <reference types="@nuxt/telemetry" />
 /// <reference path="types/nitro-layouts.d.ts" />
