@@ -7,7 +7,7 @@
   "subtitle": "Atendemos construtoras, indústrias, órgãos públicos e empresas de múltiplos segmentos com excelência técnica.",
   "logos": [
     { "name": "Entre Rios de Minas", "image": "/images/logos/Brasaoentreriosdeminas.png", "url": "" },
-    { "name": "Brennand", "image": "/images/logos/bremand.jpg", "url": "" },
+    { "name": "Brennand", "image": "/images/logos/bremand.jpg", "url": "https://cimentonacional.com.br/" },
     { "name": "Buildplan", "image": "/images/logos/BUILDPLAN.webp", "url": "" },
     { "name": "IFMG", "image": "/images/logos/ifmg.png", "url": "" },
     { "name": "Cliente", "image": "/images/logos/images (3).png", "url": "" },
