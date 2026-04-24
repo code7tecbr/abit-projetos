@@ -4,7 +4,7 @@
   "title": "Empresas que",
   "titleHighlight": "Confiam",
   "titleEnd": "em Nós",
-  "subtitle": "Atendemos construtoras, indústrias e empresas de múltiplos segmentos com excelência técnica.",
+  "subtitle": "Atendemos construtoras, indústrias, órgãos públicos e empresas de múltiplos segmentos com excelência técnica.",
   "logos": [
     { "name": "Entre Rios de Minas", "image": "/images/logos/Brasaoentreriosdeminas.png", "url": "" },
     { "name": "Bremand", "image": "/images/logos/bremand.jpg", "url": "" },
@@ -14,7 +14,7 @@
     { "name": "Iveco", "image": "/images/logos/iveco.svg", "url": "https://www.iveco.com/brasil/" },
     { "name": "Quality Ópticas", "image": "/images/logos/logqualitypq.jpg", "url": "" },
     { "name": "Natus", "image": "/images/logos/NATUS.webp", "url": "" },
-    { "name": "OMPI", "image": "/images/logos/ompi.png", "url": "" },
+    { "name": "ompi", "image": "/images/logos/ompi.png", "url": "" },
     { "name": "Sada", "image": "/images/logos/sada-logo-bg.png", "url": "" },
     { "name": "Trevo", "image": "/images/logos/trevo.png", "url": "" }
   ]
