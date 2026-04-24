@@ -21,16 +21,16 @@
     "apiToken": {
       "@secret": {
         "version": "v1",
-        "ciphertext": "kzqUFAA+TjxlBk1T6ZT7D5RFKs59pP5gb8Xbgqb2WEEtCbkJFYdoNoDSgGDPO48kXJ+/2JM=",
-        "iv": "SqfbfPphbmMYcnFP",
-        "salt": "DIRfaCAnyl0nO72BkgJ6AA==",
-        "tag": "oMN5YuUBtAjaGHENauVWQA=="
+        "ciphertext": "AdDDndB8eDaJm/CwhEpcm6WjGEM4E3vDufa8V4hDlz6CUPIkfxAd2fjxiOamAb/dHEBndr8=",
+        "iv": "HCENLZa641Q0eOVp",
+        "salt": "Vfn81eK+Be/1BVdX6twTGw==",
+        "tag": "rimsH/dbA3lEk+etwJ/QfA=="
       }
     },
     "id": "f531598b7f2844fe66fa394d78ad74a2dacf1841",
     "environment": "production",
-    "createdAt": 1777073267637,
-    "updatedAt": 1777073267637
+    "createdAt": 1777073353489,
+    "updatedAt": 1777073353489
   },
   "props": {
     "name": "abitprojetos.com.br",
@@ -40,10 +40,10 @@
     "apiToken": {
       "@secret": {
         "version": "v1",
-        "ciphertext": "C9x7fH6UAba2sNFPq3eL+UThk25lWxJMGhv2kJt5V546FoRTYQUHSsA1thAo/ATb62sRGfI=",
-        "iv": "Cv5sF1r+1neMo9fD",
-        "salt": "h+Z5QJaLVjDNQ5CgPyd3Hg==",
-        "tag": "SD6qFNCtpLkFBG4Vf05vVg=="
+        "ciphertext": "ktYPzhbUBAuNNQyK5X3FwTiSM9nw7RBeDTQF+34XRZxs3qvfiXVoFam7BDXA7+HGiH3da4g=",
+        "iv": "Aw00MCyjRpw6eLSU",
+        "salt": "nZpF5kpLJivHXjbRFv4jaQ==",
+        "tag": "2vKxgdjI0Rn1mzG8kSxeyg=="
       }
     }
   }
