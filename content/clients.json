@@ -13,8 +13,8 @@
     { "name": "Cliente", "image": "/images/logos/images (3).png", "url": "" },
     { "name": "Iveco", "image": "/images/logos/iveco.svg", "url": "https://www.iveco.com/brasil/" },
     { "name": "Quality Ópticas", "image": "/images/logos/logqualitypq.jpg", "url": "" },
-    { "name": "Natus", "image": "/images/logos/NATUS.webp", "url": "" },
-    { "name": "ompi", "image": "/images/logos/ompi.png", "url": "" },
+    { "name": "Vida Natus", "image": "/images/logos/NATUS.webp", "url": "" },
+    { "name": "Ompi", "image": "/images/logos/ompi.png", "url": "" },
     { "name": "Sada", "image": "/images/logos/sada-logo-bg.png", "url": "" },
     { "name": "Trevo", "image": "/images/logos/trevo.png", "url": "" }
   ]
