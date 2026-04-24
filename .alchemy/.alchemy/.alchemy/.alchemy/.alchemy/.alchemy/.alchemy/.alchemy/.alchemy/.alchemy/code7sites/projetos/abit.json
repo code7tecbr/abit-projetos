@@ -1,14 +1,14 @@
 {
   "kind": "cloudflare::Worker",
-  "id": "abit-projetos",
-  "fqn": "code7sites/prod/abit-projetos",
+  "id": "abit",
+  "fqn": "code7sites/projetos/abit",
   "seq": 1,
   "data": {},
   "status": "updated",
   "output": {
     "Symbol(alchemy::ResourceKind)": "cloudflare::Worker",
-    "Symbol(alchemy::ResourceID)": "abit-projetos",
-    "Symbol(alchemy::ResourceFQN)": "code7sites/prod/abit-projetos",
+    "Symbol(alchemy::ResourceID)": "abit",
+    "Symbol(alchemy::ResourceFQN)": "code7sites/projetos/abit",
     "Symbol(alchemy::ResourceScope)": {
       "@scope": null
     },
@@ -16,16 +16,16 @@
     "apiToken": {
       "@secret": {
         "version": "v1",
-        "ciphertext": "9TKieOM+iJJMA0JCpNPStwvKPhewosUN9qALzAYpXqhhUAGzP+D70GtSwrF7bamTL4ld8Vw=",
-        "iv": "BNavLoSmMQAjoCnE",
-        "salt": "7nsC12MQyc5tN2UBZ+dJ9w==",
-        "tag": "wfYZqV5mGf8GGLV/F++osA=="
+        "ciphertext": "9sSTmt8LtKbntXH7i+UxNymgVdN5C1yiaSjm3RFdRiDxTo3SUD+vD+1r7dIITwLtSaOcF0U=",
+        "iv": "Dkau2Wzrfg6vjlHR",
+        "salt": "sualsYHM/5V0W2dJV90rBA==",
+        "tag": "YNcGj+NHSXCnnycmzGcZKg=="
       }
     },
     "noBundle": true,
     "compatibility": "node",
     "entrypoint": ".output/server/index.mjs",
-    "name": "code7sites-abit-projetos-prod",
+    "name": "code7sites-abit-projetos",
     "cwd": "",
     "compatibilityFlags": [
       "nodejs_compat",
@@ -47,30 +47,30 @@
       "hasRemote": true
     },
     "type": "service",
-    "id": "abit-projetos",
+    "id": "abit",
     "format": "esm",
     "createdAt": {
-      "@date": "2026-04-20T19:08:07.027Z"
+      "@date": "2026-04-21T12:43:41.490Z"
     },
     "updatedAt": {
-      "@date": "2026-04-20T19:19:33.255Z"
+      "@date": "2026-04-22T01:23:31.788Z"
     },
-    "url": "https://code7sites-abit-projetos-prod.code7tec.workers.dev"
+    "url": "https://code7sites-abit-projetos.code7tec.workers.dev"
   },
   "props": {
     "apiToken": {
       "@secret": {
         "version": "v1",
-        "ciphertext": "FKf4pzfJcfxGFF46n5IPDQZ2BSH0tw2s3LH2s/Qzu+kvQ+bS4rPrGYZZoehoqtKlFDYUn+k=",
-        "iv": "VVJP99VAL2gg2RfW",
-        "salt": "jNUrw5zBTiz9f8ZbrZtJDA==",
-        "tag": "rIudp8XnyIhLFODugXyVAQ=="
+        "ciphertext": "Lky3q7HoiMI/5mDPyY0M4js0VUKA4oqipMY0WDDgnEthp4j7E4Ug7oBAc/YjOXMZVUI7P38=",
+        "iv": "BvvmdpDOPW655OZn",
+        "salt": "Jf2yLUsjYTPHGsB6PxOtRQ==",
+        "tag": "ziMTBlG6+shzBc4sA5Sxqw=="
       }
     },
     "noBundle": true,
     "compatibility": "node",
     "entrypoint": ".output/server/index.mjs",
-    "name": "code7sites-abit-projetos-prod",
+    "name": "code7sites-abit-projetos",
     "cwd": "",
     "compatibilityFlags": [
       "nodejs_compat",
