@@ -1,14 +1,14 @@
 {
   "kind": "cloudflare::Worker",
-  "id": "abit",
-  "fqn": "code7sites/projetos/abit",
+  "id": "staging",
+  "fqn": "code7sites/dev/staging",
   "seq": 1,
   "data": {},
   "status": "updated",
   "output": {
     "Symbol(alchemy::ResourceKind)": "cloudflare::Worker",
-    "Symbol(alchemy::ResourceID)": "abit",
-    "Symbol(alchemy::ResourceFQN)": "code7sites/projetos/abit",
+    "Symbol(alchemy::ResourceID)": "staging",
+    "Symbol(alchemy::ResourceFQN)": "code7sites/dev/staging",
     "Symbol(alchemy::ResourceScope)": {
       "@scope": null
     },
@@ -16,45 +16,45 @@
     "apiToken": {
       "@secret": {
         "version": "v1",
-        "ciphertext": "OOoWd8ppvjLMHNOYXBIYcb3jodAcy3RJXO9y0v4YXReP0Ktr8OwEJbJP4lNpvDAerw3U4Hc=",
-        "iv": "Ku0mLf3gDVCQeZeq",
-        "salt": "4aYuCPbav36feaQqAVeR1w==",
-        "tag": "2ystizdeN2NdgDG3QugO5Q=="
+        "ciphertext": "3b/tHRpR7l0rqwzKTROB8xMOYhhJAJWMqEo2qmMfsTKt1euz5MwplpG3VtxxtHuTdhdcHlM=",
+        "iv": "BeH0tNMdvHptclvL",
+        "salt": "jINRCWC3KwB+mmj15muhmw==",
+        "tag": "G0ih6ec4iVZBX1zHgf4ySQ=="
       }
     },
     "domains": [
       {
         "Symbol(alchemy::ResourceKind)": "cloudflare::CustomDomain",
-        "Symbol(alchemy::ResourceID)": "abitprojetos.com.br",
-        "Symbol(alchemy::ResourceFQN)": "code7sites/projetos/abit/abitprojetos.com.br",
+        "Symbol(alchemy::ResourceID)": "dev.code7.tec.br",
+        "Symbol(alchemy::ResourceFQN)": "code7sites/dev/staging/dev.code7.tec.br",
         "Symbol(alchemy::ResourceScope)": {
           "@scope": null
         },
         "Symbol(alchemy::ResourceSeq)": 0,
-        "name": "abitprojetos.com.br",
-        "zoneId": "f9e779b9dfb7735aeb1e13d824f6bdf8",
+        "name": "dev.code7.tec.br",
+        "zoneId": "21ddb20066e336cd8508777a0c9e8fd1",
         "adopt": true,
-        "workerName": "code7sites-abit-projetos",
+        "workerName": "code7sites-staging-dev",
         "dev": false,
         "apiToken": {
           "@secret": {
             "version": "v1",
-            "ciphertext": "U3MkI7LewrR9B3OCslDXoku2zdbKXD2qAF/lZNutBP/zwon3cIIS4hTWd9w4YJJxbmsbViw=",
-            "iv": "zJu6yi0JZBcV5w+U",
-            "salt": "jNdn4/EhOxoM9I3olR/WiA==",
-            "tag": "zqj2Hkv2SvoOgZgt32IQ1Q=="
+            "ciphertext": "RgX57UQDvr4l7N3upDqtdKE4eqBu3++B+wwyhhgVRi7QHxqtcKpEM7hfPRgAI4fHgfz93Ok=",
+            "iv": "bw1p3bmxPFgTs269",
+            "salt": "fD9qnd+Iu4+UUC6A1XK5dA==",
+            "tag": "lE3qeByb1KbBhELF5ZMwsg=="
           }
         },
-        "id": "f531598b7f2844fe66fa394d78ad74a2dacf1841",
+        "id": "7f173a163cfadebab17366e27090bb0778131204",
         "environment": "production",
-        "createdAt": 1777055626436,
-        "updatedAt": 1777055626436
+        "createdAt": 1776222386774,
+        "updatedAt": 1776222386774
       }
     ],
     "noBundle": true,
     "compatibility": "node",
     "entrypoint": ".output/server/index.mjs",
-    "name": "code7sites-abit-projetos",
+    "name": "code7sites-staging-dev",
     "cwd": "",
     "compatibilityFlags": [
       "nodejs_compat",
@@ -76,33 +76,33 @@
       "hasRemote": true
     },
     "type": "service",
-    "id": "abit",
+    "id": "staging",
     "format": "esm",
     "createdAt": {
-      "@date": "2026-04-21T12:43:41.490Z"
+      "@date": "2026-04-15T03:06:26.843Z"
     },
     "updatedAt": {
-      "@date": "2026-04-24T18:33:46.522Z"
+      "@date": "2026-04-15T13:34:43.187Z"
     },
-    "url": "https://code7sites-abit-projetos.abitprojetos.workers.dev"
+    "url": "https://code7sites-staging-dev.code7tec.workers.dev"
   },
   "props": {
     "apiToken": {
       "@secret": {
         "version": "v1",
-        "ciphertext": "AEiMbD1iewfknpZ+PxT+0QYjpulB91FMtkphquBwzWT2cS1nuaRMz4RgXxzQPTzvRTGhsCQ=",
-        "iv": "lKC2YucW8ESU1ot7",
-        "salt": "QlRzgvo2TWVbBG3pPDo2aA==",
-        "tag": "EtEkoqF9BFyw/lVkDXWWsQ=="
+        "ciphertext": "clfyf6S2h31uan0aOSIwrN9EjGRsF5/g87x5983vBN6NGeCXiTUuBDqG8GCYZTcg1Swazss=",
+        "iv": "ZGKzC5MCLSi9a+x2",
+        "salt": "5SV7vOpf8kvfcn1iNTRtJA==",
+        "tag": "YkaQ1pID21y8l/yOAT9eOg=="
       }
     },
     "domains": [
-      "abitprojetos.com.br"
+      "dev.code7.tec.br"
     ],
     "noBundle": true,
     "compatibility": "node",
     "entrypoint": ".output/server/index.mjs",
-    "name": "code7sites-abit-projetos",
+    "name": "code7sites-staging-dev",
     "cwd": "",
     "compatibilityFlags": [
       "nodejs_compat",
