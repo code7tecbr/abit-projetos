@@ -17,7 +17,7 @@
     { "name": "Ompi", "image": "/images/logos/ompi.png", "url": "" },
     { "name": "Sada", "image": "/images/logos/sada-logo-bg.png", "url": "" },
     { "name": "Trevo", "image": "/images/logos/trevo.png", "url": "" }
-    { "name": "Railoc", "image": "/images/logos/Railoc logo.avif", "url": "https://railoc.net/" }
+    { "name": "Railoc", "image": "/images/logos/logorailoc.png", "url": "https://railoc.net/" }
 
   ]
 }
