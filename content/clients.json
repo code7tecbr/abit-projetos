@@ -10,14 +10,14 @@
     { "name": "Brennand", "image": "/images/logos/bremand.png", "url": "https://cimentonacional.com.br/" },
     { "name": "Buildplan", "image": "/images/logos/BUILDPLAN.webp", "url": "https://buildplan.com.br/" },
     { "name": "IFTM", "image": "/images/logos/ifmg.png", "url": "https://iftm.edu.br/" },
-    { "name": "Arabesca", "image": "/images/logos/ARABESCA.png", "url": "https://www.instagram.com/lojarabesca/" },
+    { "name": "Arabesca", "image": "/images/logos/ARABESCAROUPA.png", "url": "https://www.instagram.com/lojarabesca/" },
     { "name": "Entre Rios de Minas", "image": "/images/logos/Entreriosdeminas 2.png", "url": "https://www.entreriosdeminas.mg.gov.br/" },
     { "name": "Iveco", "image": "/images/logos/iveco.svg", "url": "https://www.iveco.com/brasil/" },
     { "name": "Quality Ópticas", "image": "/images/logos/QUALITY-Photoroom.png", "url": "https://qualityopticas.com.br/" },
     { "name": "Vida Natus", "image": "/images/logos/NATUS.webp", "url": "https://vidanatus.com.br/" },
     { "name": "SICOOB", "image": "/images/logos/LOGO-SICOOB.webp", "url": "https://www.sicoob.com.br/" },
-    { "name": "Ompi", "image": "/images/logos/ompi.png", "url": "" },
-    { "name": "Sada", "image": "/images/logos/sada-logo-bg.png", "url": "" },
+    { "name": "Ompi", "image": "/images/logos/ompi.png", "url": "https://www.stevanatogroup.com/en/" },
+    { "name": "Sada", "image": "/images/logos/sada-logo-bg.png", "url": "https://www.gruposada.com.br/nossos-negocios/industria/sada-siderurgia" },
     { "name": "Trevo", "image": "/images/logos/trevo.png", "url": "https://trevolacteos.com.br/" },
     { "name": "Railoc", "image": "/images/logos/logorailoc.png", "url": "https://railoc.net/" }
   ]
