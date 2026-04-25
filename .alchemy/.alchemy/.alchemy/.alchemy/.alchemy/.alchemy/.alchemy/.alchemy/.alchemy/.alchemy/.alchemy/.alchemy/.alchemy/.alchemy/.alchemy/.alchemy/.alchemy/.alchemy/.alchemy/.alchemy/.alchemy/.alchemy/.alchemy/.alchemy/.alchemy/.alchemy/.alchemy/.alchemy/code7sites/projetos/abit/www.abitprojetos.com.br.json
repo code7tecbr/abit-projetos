@@ -1,0 +1,50 @@
+{
+  "kind": "cloudflare::CustomDomain",
+  "id": "www.abitprojetos.com.br",
+  "fqn": "code7sites/projetos/abit/www.abitprojetos.com.br",
+  "seq": 0,
+  "data": {},
+  "status": "created",
+  "output": {
+    "Symbol(alchemy::ResourceKind)": "cloudflare::CustomDomain",
+    "Symbol(alchemy::ResourceID)": "www.abitprojetos.com.br",
+    "Symbol(alchemy::ResourceFQN)": "code7sites/projetos/abit/www.abitprojetos.com.br",
+    "Symbol(alchemy::ResourceScope)": {
+      "@scope": null
+    },
+    "Symbol(alchemy::ResourceSeq)": 0,
+    "name": "www.abitprojetos.com.br",
+    "zoneId": "f9e779b9dfb7735aeb1e13d824f6bdf8",
+    "adopt": true,
+    "workerName": "code7sites-abit-projetos",
+    "dev": false,
+    "apiToken": {
+      "@secret": {
+        "version": "v1",
+        "ciphertext": "tmzH0NThkPUxrg+uEh0JLsBpjKED6z4wwG/fK+/gxSoebzeO3DAs8/u1UHtefMz87rv4P+0=",
+        "iv": "LeK1b+frTJxpOzZg",
+        "salt": "xV2WiXexjoIKv/C0B4Xmng==",
+        "tag": "8NpPbhLD3YHq/BTLdOG2rg=="
+      }
+    },
+    "id": "35016281d79ec49dc80b9049fd59c792384022da",
+    "environment": "production",
+    "createdAt": 1777041376338,
+    "updatedAt": 1777041376338
+  },
+  "props": {
+    "name": "www.abitprojetos.com.br",
+    "adopt": true,
+    "workerName": "code7sites-abit-projetos",
+    "dev": false,
+    "apiToken": {
+      "@secret": {
+        "version": "v1",
+        "ciphertext": "iruF0gmNXwXuW4m5XuohZ6sS0BUQRtEJ0BIiqmZ/dg+wdlWVdGX5BAuXRxjARsjhmiVkB7k=",
+        "iv": "74ZUdNFnK5L4oc9y",
+        "salt": "rfW1gpTG2o2LQPP01W+ikg==",
+        "tag": "BqY/ZiwDw/8lQR3EuO2F0g=="
+      }
+    }
+  }
+}
