@@ -1,7 +1,7 @@
 {
-  "label": "Parceiros & Clientes",
+  "label": "Clientes & Parceiros",
   "marqueeSpeed": null,
-  "title": "Empresas que",
+  "title": "Clientes que",
   "titleHighlight": "Confiam",
   "titleEnd": "em Nós",
   "subtitle": "Atendemos construtoras, indústrias, órgãos públicos e empresas de múltiplos segmentos com excelência técnica.",
@@ -17,5 +17,7 @@
     { "name": "Ompi", "image": "/images/logos/ompi.png", "url": "" },
     { "name": "Sada", "image": "/images/logos/sada-logo-bg.png", "url": "" },
     { "name": "Trevo", "image": "/images/logos/trevo.png", "url": "" }
+    { "name": "Railoc", "image": "/images/logos/Railoc logo.avif", "url": "" }
+
   ]
 }
