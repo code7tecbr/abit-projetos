@@ -1,0 +1,124 @@
+{
+  "kind": "cloudflare::Worker",
+  "id": "staging",
+  "fqn": "code7sites/dev/staging",
+  "seq": 1,
+  "data": {},
+  "status": "updated",
+  "output": {
+    "Symbol(alchemy::ResourceKind)": "cloudflare::Worker",
+    "Symbol(alchemy::ResourceID)": "staging",
+    "Symbol(alchemy::ResourceFQN)": "code7sites/dev/staging",
+    "Symbol(alchemy::ResourceScope)": {
+      "@scope": null
+    },
+    "Symbol(alchemy::ResourceSeq)": 1,
+    "apiToken": {
+      "@secret": {
+        "version": "v1",
+        "ciphertext": "3b/tHRpR7l0rqwzKTROB8xMOYhhJAJWMqEo2qmMfsTKt1euz5MwplpG3VtxxtHuTdhdcHlM=",
+        "iv": "BeH0tNMdvHptclvL",
+        "salt": "jINRCWC3KwB+mmj15muhmw==",
+        "tag": "G0ih6ec4iVZBX1zHgf4ySQ=="
+      }
+    },
+    "domains": [
+      {
+        "Symbol(alchemy::ResourceKind)": "cloudflare::CustomDomain",
+        "Symbol(alchemy::ResourceID)": "dev.code7.tec.br",
+        "Symbol(alchemy::ResourceFQN)": "code7sites/dev/staging/dev.code7.tec.br",
+        "Symbol(alchemy::ResourceScope)": {
+          "@scope": null
+        },
+        "Symbol(alchemy::ResourceSeq)": 0,
+        "name": "dev.code7.tec.br",
+        "zoneId": "21ddb20066e336cd8508777a0c9e8fd1",
+        "adopt": true,
+        "workerName": "code7sites-staging-dev",
+        "dev": false,
+        "apiToken": {
+          "@secret": {
+            "version": "v1",
+            "ciphertext": "RgX57UQDvr4l7N3upDqtdKE4eqBu3++B+wwyhhgVRi7QHxqtcKpEM7hfPRgAI4fHgfz93Ok=",
+            "iv": "bw1p3bmxPFgTs269",
+            "salt": "fD9qnd+Iu4+UUC6A1XK5dA==",
+            "tag": "lE3qeByb1KbBhELF5ZMwsg=="
+          }
+        },
+        "id": "7f173a163cfadebab17366e27090bb0778131204",
+        "environment": "production",
+        "createdAt": 1776222386774,
+        "updatedAt": 1776222386774
+      }
+    ],
+    "noBundle": true,
+    "compatibility": "node",
+    "entrypoint": ".output/server/index.mjs",
+    "name": "code7sites-staging-dev",
+    "cwd": "",
+    "compatibilityFlags": [
+      "nodejs_compat",
+      "nodejs_compat_populate_process_env"
+    ],
+    "compatibilityDate": "2026-03-10",
+    "assets": {
+      "html_handling": "auto-trailing-slash",
+      "not_found_handling": "single-page-application",
+      "run_worker_first": false
+    },
+    "bindings": {
+      "ASSETS": {
+        "type": "assets",
+        "path": ".output/public"
+      }
+    },
+    "dev": {
+      "hasRemote": true
+    },
+    "type": "service",
+    "id": "staging",
+    "format": "esm",
+    "createdAt": {
+      "@date": "2026-04-15T03:06:26.843Z"
+    },
+    "updatedAt": {
+      "@date": "2026-04-15T13:34:43.187Z"
+    },
+    "url": "https://code7sites-staging-dev.code7tec.workers.dev"
+  },
+  "props": {
+    "apiToken": {
+      "@secret": {
+        "version": "v1",
+        "ciphertext": "clfyf6S2h31uan0aOSIwrN9EjGRsF5/g87x5983vBN6NGeCXiTUuBDqG8GCYZTcg1Swazss=",
+        "iv": "ZGKzC5MCLSi9a+x2",
+        "salt": "5SV7vOpf8kvfcn1iNTRtJA==",
+        "tag": "YkaQ1pID21y8l/yOAT9eOg=="
+      }
+    },
+    "domains": [
+      "dev.code7.tec.br"
+    ],
+    "noBundle": true,
+    "compatibility": "node",
+    "entrypoint": ".output/server/index.mjs",
+    "name": "code7sites-staging-dev",
+    "cwd": "",
+    "compatibilityFlags": [
+      "nodejs_compat",
+      "nodejs_compat_populate_process_env"
+    ],
+    "compatibilityDate": "2026-03-10",
+    "assets": {
+      "html_handling": "auto-trailing-slash",
+      "not_found_handling": "single-page-application",
+      "run_worker_first": false
+    },
+    "bindings": {
+      "ASSETS": {
+        "type": "assets",
+        "path": ".output/public"
+      }
+    }
+  }
+}
