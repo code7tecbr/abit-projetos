@@ -1,6 +1,6 @@
+/// <reference types="nuxt-gtag" />
 /// <reference types="@nuxtjs/sitemap" />
 /// <reference types="@nuxt/devtools" />
-/// <reference types="nuxt-gtag" />
 /// <reference types="@nuxt/telemetry" />
 /// <reference path="types/nitro-layouts.d.ts" />
 /// <reference path="types/builder-env.d.ts" />
