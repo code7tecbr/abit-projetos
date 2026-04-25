@@ -652,7 +652,7 @@ function _expandFromEnv(value) {
 const _inlineRuntimeConfig = {
   "app": {
     "baseURL": "/",
-    "buildId": "e6dcb919-8b52-4846-ad0f-0e05f62b0783",
+    "buildId": "5dc74099-6368-404e-9ee2-10ec78b07ae7",
     "buildAssetsDir": "/_nuxt/",
     "cdnURL": ""
   },
