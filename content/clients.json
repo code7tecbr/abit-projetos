@@ -23,6 +23,9 @@
     { "name": "Sada", "image": "/images/logos/sada-logo-bg.png", "url": "https://www.gruposada.com.br/nossos-negocios/industria/sada-siderurgia" },
     { "name": "Trevo", "image": "/images/logos/trevo.png", "url": "https://trevolacteos.com.br/" },
     { "name": "Railoc", "image": "/images/logos/logorailoc.png", "url": "https://railoc.net/" },
-    { "name": "MG ODONTO Especializada", "image": "/images/logos/MGODONTO.png", "url": "https://mgodontoespecializada.com.br/" }
+    { "name": "MG ODONTO Especializada", "image": "/images/logos/MGODONTO.png", "url": "https://mgodontoespecializada.com.br/" },
+    { "name": "Autoforjas", "image": "/images/logos/autoforjas.png", "url": "https://https://cieautomotive.com/en/-/plant-forjas-minas/" },
+    { "name": "Teclemidia", "image": "/images/logos/TECLEMIDIA.png", "url": "https://teclemidia.com/" },
+    { "name": "OMR", "image": "/images/logos/OMR.png", "url": "https://omrautomotive.com/en/omr-group/the-group-today/omr-componentes-automotivos-ltda/" }
   ]
 }
