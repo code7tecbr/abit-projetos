@@ -28,6 +28,7 @@
     { "name": "Teclemidia", "image": "/images/logos/TECLEMIDIA.png", "url": "https://teclemidia.com/" },
     { "name": "OMR", "image": "/images/logos/OMR.png", "url": "https://omrautomotive.com/en/omr-group/the-group-today/omr-componentes-automotivos-ltda/" },
     { "name": "SUCESSO", "image": "/images/logos/logo-sucessoadm.png", "url": "https://www.sucessoadministradora.com.br/" },
-    { "name": "ASK", "image": "/images/logos/ask_industries_logo.jpg", "url": "https://www.askgroup.global/it/" }
+    { "name": "ASK", "image": "/images/logos/ask_industries_logo.jpg", "url": "https://www.askgroup.global/it/" },
+    { "name": "Blue Garden", "image": "/images/logos/Logo-Blue-Garden-Sete-Lagoas-250px.png", "url": "" }
   ]
 }
