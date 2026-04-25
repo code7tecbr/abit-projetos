@@ -16,22 +16,22 @@
     "apiToken": {
       "@secret": {
         "version": "v1",
-        "ciphertext": "mReBXT7TEW8aaFo5InsfckQ+NgUcIVm0ttVbGOz1VgDO5juqSEx+b81SwP2+FWh2bJ4NjdA=",
-        "iv": "8BYOQq+EfBFVINcp",
-        "salt": "+EWcpzNV7JUzQRwvnk0wwg==",
-        "tag": "LRKFwzJuCrdnWGmOJDb/eQ=="
+        "ciphertext": "Szq7kfEYvewN0PLqRULfWG7offg32Ni72v7DWjk1PC8OeGupmsyZ+cPYzXQzMP0Osup2wjw=",
+        "iv": "Y9jLmayYW8/NHuTL",
+        "salt": "hEshjUChAw6HUFLtVUCbrQ==",
+        "tag": "eD90ZRyNHC65Qj5qAdPDhg=="
       }
     },
     "domains": [
       {
         "Symbol(alchemy::ResourceKind)": "cloudflare::CustomDomain",
-        "Symbol(alchemy::ResourceID)": "www.abitprojetos.com.br",
-        "Symbol(alchemy::ResourceFQN)": "code7sites/projetos/abit/www.abitprojetos.com.br",
+        "Symbol(alchemy::ResourceID)": "abitprojetos.com.br",
+        "Symbol(alchemy::ResourceFQN)": "code7sites/projetos/abit/abitprojetos.com.br",
         "Symbol(alchemy::ResourceScope)": {
           "@scope": null
         },
         "Symbol(alchemy::ResourceSeq)": 0,
-        "name": "www.abitprojetos.com.br",
+        "name": "abitprojetos.com.br",
         "zoneId": "f9e779b9dfb7735aeb1e13d824f6bdf8",
         "adopt": true,
         "workerName": "code7sites-abit-projetos",
@@ -39,16 +39,16 @@
         "apiToken": {
           "@secret": {
             "version": "v1",
-            "ciphertext": "cis8/3XZA0E9cQ8hn7FZBH1kx6M2vVa5YHnDxlEafgBFGTZFwVXhcMH/e4FY+6vLz3dz8bk=",
-            "iv": "40YXC7aR+NrSpIXV",
-            "salt": "vxGfS6/BeQ5HHmeayeRShQ==",
-            "tag": "eeuNZLv5/fuyJZ0b74RsRQ=="
+            "ciphertext": "M54Mn1uWa00ZrHe3jnzj6QUlehK1Gne0PbitieUmwtK9EZAQJgoP5R4gR5HvnMGCum9l29c=",
+            "iv": "iobdAT2IracSbn2M",
+            "salt": "wjszvI2qvJoR6NQGfi+8KA==",
+            "tag": "4NvqqSIuy+MinQLGo11kaA=="
           }
         },
-        "id": "35016281d79ec49dc80b9049fd59c792384022da",
+        "id": "f531598b7f2844fe66fa394d78ad74a2dacf1841",
         "environment": "production",
-        "createdAt": 1777041376338,
-        "updatedAt": 1777041376338
+        "createdAt": 1777045872631,
+        "updatedAt": 1777045872631
       }
     ],
     "noBundle": true,
@@ -82,7 +82,7 @@
       "@date": "2026-04-21T12:43:41.490Z"
     },
     "updatedAt": {
-      "@date": "2026-04-24T14:36:16.417Z"
+      "@date": "2026-04-24T15:51:12.711Z"
     },
     "url": "https://code7sites-abit-projetos.abitprojetos.workers.dev"
   },
@@ -90,14 +90,14 @@
     "apiToken": {
       "@secret": {
         "version": "v1",
-        "ciphertext": "WEk2YD1v1dsL/JzYGHm1y+0tuPog4+N5AOnFPtRLMTgOOHUzn3FgUHaxz9appVOEDWtQgqg=",
-        "iv": "VbWO+IOxOeOXfnTT",
-        "salt": "nbLSkq1lM1gSjoSbgZ8+RQ==",
-        "tag": "TlAAGQ7pRJyYLxQcGJR7Ig=="
+        "ciphertext": "V3m5VzQ5dVTYnAq40CYuWEE0BBeSA8yhmICb9abbnFZrs+Msno9vODNLDvaUODUFgJF/8SM=",
+        "iv": "z70mD63bcQlfc64o",
+        "salt": "BHGed13Z0shksCdq+/rnEA==",
+        "tag": "U2wjv1AlsJezVfUNDL2T8Q=="
       }
     },
     "domains": [
-      "www.abitprojetos.com.br"
+      "abitprojetos.com.br"
     ],
     "noBundle": true,
     "compatibility": "node",
