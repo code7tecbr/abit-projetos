@@ -6,18 +6,19 @@
   "titleEnd": "em Nós",
   "subtitle": "Atendemos construtoras, indústrias, órgãos públicos e empresas de múltiplos segmentos com excelência técnica.",
   "logos": [
-    { "name": "Entre Rios de Minas", "image": "/images/logos/Entreriosdeminas 2.png", "url": "https://www.entreriosdeminas.mg.gov.br/" },
+    { "name": "Bradesco", "image": "/images/logos/BRADESCO.jpg", "url": "https://banco.bradesco/html/classic/index.shtm" },
     { "name": "Brennand", "image": "/images/logos/bremand.png", "url": "https://cimentonacional.com.br/" },
     { "name": "Buildplan", "image": "/images/logos/BUILDPLAN.webp", "url": "https://buildplan.com.br/" },
     { "name": "IFTM", "image": "/images/logos/ifmg.png", "url": "https://iftm.edu.br/" },
     { "name": "Cliente", "image": "/images/logos/images (3).png", "url": "" },
+    { "name": "Entre Rios de Minas", "image": "/images/logos/Entreriosdeminas 2.png", "url": "https://www.entreriosdeminas.mg.gov.br/" },
     { "name": "Iveco", "image": "/images/logos/iveco.svg", "url": "https://www.iveco.com/brasil/" },
-    { "name": "Quality Ópticas", "image": "/images/logos/logqualitypq.jpg", "url": "" },
-    { "name": "Vida Natus", "image": "/images/logos/NATUS.webp", "url": "" },
+    { "name": "Quality Ópticas", "image": "/images/logos/quality opticas.jpg", "url": "https://qualityopticas.com.br/" },
+    { "name": "Vida Natus", "image": "/images/logos/NATUS.webp", "url": "https://vidanatus.com.br/" },
+    { "name": "SICOOB", "image": "/images/logos/LOGO-SICOOB.webp.webp", "url": "https://www.sicoob.com.br/" }
     { "name": "Ompi", "image": "/images/logos/ompi.png", "url": "" },
     { "name": "Sada", "image": "/images/logos/sada-logo-bg.png", "url": "" },
-    { "name": "Trevo", "image": "/images/logos/trevo.png", "url": "" },
+    { "name": "Trevo", "image": "/images/logos/trevo.png", "url": "https://trevolacteos.com.br/" },
     { "name": "Railoc", "image": "/images/logos/logorailoc.png", "url": "https://railoc.net/" }
-
   ]
 }
