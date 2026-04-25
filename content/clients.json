@@ -19,6 +19,8 @@
     { "name": "Ompi", "image": "/images/logos/ompi.png", "url": "https://www.stevanatogroup.com/en/" },
     { "name": "Sada", "image": "/images/logos/sada-logo-bg.png", "url": "https://www.gruposada.com.br/nossos-negocios/industria/sada-siderurgia" },
     { "name": "Trevo", "image": "/images/logos/trevo.png", "url": "https://trevolacteos.com.br/" },
-    { "name": "Railoc", "image": "/images/logos/logorailoc.png", "url": "https://railoc.net/" }
+    { "name": "Railoc", "image": "/images/logos/logorailoc.png", "url": "https://railoc.net/" },
+    { "name": "MG ODONTO Especializada", "image": "/images/logos/MGODONTO.png", "url": "https://mgodontoespecializada.com.br/" }
+
   ]
 }
