@@ -8,6 +8,7 @@
   "logos": [
     { "name": "Bradesco", "image": "/images/logos/bradesco_WUPYSON.png", "url": "https://banco.bradesco/html/classic/index.shtm" },
     { "name": "Brennand", "image": "/images/logos/bremand.png", "url": "https://cimentonacional.com.br/" },
+    { "name": "OAB", "image": "/images/logos/OAB_MG.png", "url": "https://www.oab.org.br/" },
     { "name": "Buildplan", "image": "/images/logos/BUILDPLAN.webp", "url": "https://buildplan.com.br/" },
     { "name": "IFTM", "image": "/images/logos/ifmg.png", "url": "https://iftm.edu.br/" },
     { "name": "ASUSSA", "image": "/images/logos/ASSUSSA.webp", "url": "" },
