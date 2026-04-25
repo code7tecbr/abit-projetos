@@ -16,12 +16,41 @@
     "apiToken": {
       "@secret": {
         "version": "v1",
-        "ciphertext": "/ueF0xeFa3LkJQBzpnzWLBLB+1/SkvOrUfZePPsS/C4eNJE7VOpV2NRDY+wPAsK/yq8Hqw8=",
-        "iv": "7PKQljalfu3j2a0M",
-        "salt": "jJOvQC/tBtdy7h9kFrOMiQ==",
-        "tag": "fQoV3ZehwAvfla8QDK/l9Q=="
+        "ciphertext": "mReBXT7TEW8aaFo5InsfckQ+NgUcIVm0ttVbGOz1VgDO5juqSEx+b81SwP2+FWh2bJ4NjdA=",
+        "iv": "8BYOQq+EfBFVINcp",
+        "salt": "+EWcpzNV7JUzQRwvnk0wwg==",
+        "tag": "LRKFwzJuCrdnWGmOJDb/eQ=="
       }
     },
+    "domains": [
+      {
+        "Symbol(alchemy::ResourceKind)": "cloudflare::CustomDomain",
+        "Symbol(alchemy::ResourceID)": "www.abitprojetos.com.br",
+        "Symbol(alchemy::ResourceFQN)": "code7sites/projetos/abit/www.abitprojetos.com.br",
+        "Symbol(alchemy::ResourceScope)": {
+          "@scope": null
+        },
+        "Symbol(alchemy::ResourceSeq)": 0,
+        "name": "www.abitprojetos.com.br",
+        "zoneId": "f9e779b9dfb7735aeb1e13d824f6bdf8",
+        "adopt": true,
+        "workerName": "code7sites-abit-projetos",
+        "dev": false,
+        "apiToken": {
+          "@secret": {
+            "version": "v1",
+            "ciphertext": "cis8/3XZA0E9cQ8hn7FZBH1kx6M2vVa5YHnDxlEafgBFGTZFwVXhcMH/e4FY+6vLz3dz8bk=",
+            "iv": "40YXC7aR+NrSpIXV",
+            "salt": "vxGfS6/BeQ5HHmeayeRShQ==",
+            "tag": "eeuNZLv5/fuyJZ0b74RsRQ=="
+          }
+        },
+        "id": "35016281d79ec49dc80b9049fd59c792384022da",
+        "environment": "production",
+        "createdAt": 1777041376338,
+        "updatedAt": 1777041376338
+      }
+    ],
     "noBundle": true,
     "compatibility": "node",
     "entrypoint": ".output/server/index.mjs",
@@ -53,7 +82,7 @@
       "@date": "2026-04-21T12:43:41.490Z"
     },
     "updatedAt": {
-      "@date": "2026-04-24T13:39:46.181Z"
+      "@date": "2026-04-24T14:36:16.417Z"
     },
     "url": "https://code7sites-abit-projetos.abitprojetos.workers.dev"
   },
@@ -61,12 +90,15 @@
     "apiToken": {
       "@secret": {
         "version": "v1",
-        "ciphertext": "fN4jH2qC0+cKx0AepB+XiJDxTqKhMO+B5Thr9uzXY4ydmvsy+sNmgRW+Wkm35eTf8jmXyPk=",
-        "iv": "Odb2/19pKWVhPW1v",
-        "salt": "IvMBlYj6/oWRr39s05d4tQ==",
-        "tag": "9DPXbCDTL+DiNRMBaea7kw=="
+        "ciphertext": "WEk2YD1v1dsL/JzYGHm1y+0tuPog4+N5AOnFPtRLMTgOOHUzn3FgUHaxz9appVOEDWtQgqg=",
+        "iv": "VbWO+IOxOeOXfnTT",
+        "salt": "nbLSkq1lM1gSjoSbgZ8+RQ==",
+        "tag": "TlAAGQ7pRJyYLxQcGJR7Ig=="
       }
     },
+    "domains": [
+      "www.abitprojetos.com.br"
+    ],
     "noBundle": true,
     "compatibility": "node",
     "entrypoint": ".output/server/index.mjs",
