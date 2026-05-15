@@ -1,0 +1,50 @@
+{
+  "kind": "cloudflare::CustomDomain",
+  "id": "dev.code7.tec.br",
+  "fqn": "code7sites/sites/my/dev.code7.tec.br",
+  "seq": 0,
+  "data": {},
+  "status": "created",
+  "output": {
+    "Symbol(alchemy::ResourceKind)": "cloudflare::CustomDomain",
+    "Symbol(alchemy::ResourceID)": "dev.code7.tec.br",
+    "Symbol(alchemy::ResourceFQN)": "code7sites/sites/my/dev.code7.tec.br",
+    "Symbol(alchemy::ResourceScope)": {
+      "@scope": null
+    },
+    "Symbol(alchemy::ResourceSeq)": 0,
+    "name": "dev.code7.tec.br",
+    "zoneId": "21ddb20066e336cd8508777a0c9e8fd1",
+    "adopt": true,
+    "workerName": "code7sites-my-sites",
+    "dev": false,
+    "apiToken": {
+      "@secret": {
+        "version": "v1",
+        "ciphertext": "GIWmIRw/NaUaUepCpLps3tu+uuW6yWifEjNZ/xCLwiU7RVkAKv3ddhWRuQXfMxJEZj+2+iQ=",
+        "iv": "71wNAgzcJ1N7G9CH",
+        "salt": "SnvCP1AAqO9eNw10CEI5iQ==",
+        "tag": "TyIdW4IDT06Mvg9ynOMp5Q=="
+      }
+    },
+    "id": "7f173a163cfadebab17366e27090bb0778131204",
+    "environment": "production",
+    "createdAt": 1776260984837,
+    "updatedAt": 1776260984837
+  },
+  "props": {
+    "name": "dev.code7.tec.br",
+    "adopt": true,
+    "workerName": "code7sites-my-sites",
+    "dev": false,
+    "apiToken": {
+      "@secret": {
+        "version": "v1",
+        "ciphertext": "pAAexMxRIiKR8b433083AnECLN66JYD0scg1XePKj9sJLwWbKhfy4V3iaI/S55Y3NztLLgU=",
+        "iv": "pVO1NEte+NIPPIfo",
+        "salt": "iwezCm2p9aKg3KeAiBjyOg==",
+        "tag": "YjttndK25evEpzi1cslcoQ=="
+      }
+    }
+  }
+}

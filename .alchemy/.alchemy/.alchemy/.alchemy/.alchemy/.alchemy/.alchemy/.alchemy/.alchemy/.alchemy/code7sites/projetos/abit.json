@@ -16,10 +16,10 @@
     "apiToken": {
       "@secret": {
         "version": "v1",
-        "ciphertext": "bhcWaHkc+nO0HzJC0v+Z002lkGZuUAYmRxX7Bw3DIQAUS6dEmS/c72v5IMrb7obr/DvIzY8=",
-        "iv": "QwbQ/PCX3kg4iwmq",
-        "salt": "gTg+N+X7np9drw9Lwo+DQA==",
-        "tag": "oOXePa6Bcc/r1g9A4l9HRA=="
+        "ciphertext": "2z0xDVlHMbbXDCiT8cTO1L7jqDU/A1Y/JqVXMOYtHO4pHypoVPTgUki2zJWwyQRIsQExWkE=",
+        "iv": "+fWJjjxtb9mmNKSs",
+        "salt": "O7+B4owGn3g4BNh89012SA==",
+        "tag": "6tfoM2yvQNUoQFbBptNZIQ=="
       }
     },
     "domains": [
@@ -39,16 +39,16 @@
         "apiToken": {
           "@secret": {
             "version": "v1",
-            "ciphertext": "iMMntGVoHf/kFBlMmQNGdAXqpQMDGXrj4PNi0kF0X3dVni4uMRMEEUc4OiuK1UDJAVX1b0w=",
-            "iv": "C54w2vrad7ZCEyk/",
-            "salt": "ItSalLwcWgNy3kCy6CVr2g==",
-            "tag": "Ak3I+Vn9pj0am5C7ztXKJg=="
+            "ciphertext": "Wy07iiSdxTZ61FM8IJc/oBWLiDoqGUO5ig0BevHG4ABLzeqKkTFqJ5SGTBuw4nztsfExqQI=",
+            "iv": "FX9Yv7aPBiidsIkK",
+            "salt": "hTEmH9m4ZRapV1Ml58SrHA==",
+            "tag": "qsf+k0SFJLAuVni6FCQ27g=="
           }
         },
         "id": "f531598b7f2844fe66fa394d78ad74a2dacf1841",
         "environment": "production",
-        "createdAt": 1777146881552,
-        "updatedAt": 1777146881552
+        "createdAt": 1777299006693,
+        "updatedAt": 1777299006693
       }
     ],
     "noBundle": true,
@@ -82,7 +82,7 @@
       "@date": "2026-04-21T12:43:41.490Z"
     },
     "updatedAt": {
-      "@date": "2026-04-25T19:54:41.623Z"
+      "@date": "2026-04-27T14:10:06.769Z"
     },
     "url": "https://code7sites-abit-projetos.abitprojetos.workers.dev"
   },
@@ -90,10 +90,10 @@
     "apiToken": {
       "@secret": {
         "version": "v1",
-        "ciphertext": "GKGiUCKyW3RHWuqIaBcWrFK/gpQs1X7Qq6O28d94H7E1kexp1kotuzY4CgX8NS9DxQcJAxs=",
-        "iv": "fYrXe3+fJpV6n2vH",
-        "salt": "Lj8txfN3AA/89W9bobCIYA==",
-        "tag": "kBsrRPhCOYdJqeYAKaLbaQ=="
+        "ciphertext": "72jagFGRdKqnjnEeiLEfKS71sCU6drwGAKy9mUnZM+uPoUSqHPKUK+XjNTwCe+ZZg6bCu3s=",
+        "iv": "GxYcOqC0q1BoIotg",
+        "salt": "+7dBhuDWgasGALtiJINXSA==",
+        "tag": "2iRTUzpQdv0PPvSyFQ8aCA=="
       }
     },
     "domains": [

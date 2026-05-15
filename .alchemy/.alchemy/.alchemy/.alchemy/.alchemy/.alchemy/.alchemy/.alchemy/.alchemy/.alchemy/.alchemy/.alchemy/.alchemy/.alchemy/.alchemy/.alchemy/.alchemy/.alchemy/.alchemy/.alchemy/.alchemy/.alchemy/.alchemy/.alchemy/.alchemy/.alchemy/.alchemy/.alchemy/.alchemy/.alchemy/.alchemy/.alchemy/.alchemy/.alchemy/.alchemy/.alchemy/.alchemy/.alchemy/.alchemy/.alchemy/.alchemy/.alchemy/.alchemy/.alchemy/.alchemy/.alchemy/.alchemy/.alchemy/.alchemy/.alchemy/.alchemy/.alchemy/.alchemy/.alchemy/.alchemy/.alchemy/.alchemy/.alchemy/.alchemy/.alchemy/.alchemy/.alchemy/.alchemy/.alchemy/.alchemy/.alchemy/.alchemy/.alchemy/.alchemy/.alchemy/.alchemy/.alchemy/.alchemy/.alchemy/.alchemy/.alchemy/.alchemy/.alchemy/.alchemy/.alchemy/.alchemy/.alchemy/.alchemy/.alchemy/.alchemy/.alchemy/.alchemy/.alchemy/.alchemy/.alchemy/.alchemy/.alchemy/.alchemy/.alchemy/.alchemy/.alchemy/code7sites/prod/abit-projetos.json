@@ -16,10 +16,10 @@
     "apiToken": {
       "@secret": {
         "version": "v1",
-        "ciphertext": "DXED/W2F+DagvIPUVMOYZEXbRPIzGbmeIhTIlO6mt6OsX/rSVD2cxh+wZE4S/Zyi8qEpxqE=",
-        "iv": "5q7s1ychEas5Zshh",
-        "salt": "kjdYIXlBK+lp4XiOUlgzCg==",
-        "tag": "zYSFS9MS16C9jvPajN61aw=="
+        "ciphertext": "ccnejhXY+yd/sd7UqHoIJbWCS+2U13fjsEKEBkvrokn2cDqihyslbkVw1U/iSoO95fZfN74=",
+        "iv": "ExOpdxTGqbOhsms6",
+        "salt": "10/mxopmmkTzRSiEuEU35Q==",
+        "tag": "RCFCCOBv3LsVzM32b7NStg=="
       }
     },
     "noBundle": true,
@@ -53,7 +53,7 @@
       "@date": "2026-04-20T19:08:07.027Z"
     },
     "updatedAt": {
-      "@date": "2026-04-20T20:02:50.859Z"
+      "@date": "2026-04-20T20:09:21.619Z"
     },
     "url": "https://code7sites-abit-projetos-prod.code7tec.workers.dev"
   },
@@ -61,10 +61,10 @@
     "apiToken": {
       "@secret": {
         "version": "v1",
-        "ciphertext": "unKZQ8ACgin0Yidf79cJau2b6MSygl4AMD947yOz1nqzcgi5kPdY/Q7YbFUY4Zr8LQ+WaDY=",
-        "iv": "c4L6cxppxUBl757V",
-        "salt": "TbI01qyEoNjjcxHWI0btTQ==",
-        "tag": "2x3Szw3dRylEEqfUMiguWg=="
+        "ciphertext": "8GxUkg4NXnzxW5c6LnK8+crDYOrLJcLA8GaJKKqJjQlDag/qkx0Px15xavDn8AiSW+T2HtA=",
+        "iv": "H8jx8TXfJ+wvIP88",
+        "salt": "RlGcTi+krqTfu3kpvF011g==",
+        "tag": "t+idxhf8U3ICh9nXhs6rKQ=="
       }
     },
     "noBundle": true,
