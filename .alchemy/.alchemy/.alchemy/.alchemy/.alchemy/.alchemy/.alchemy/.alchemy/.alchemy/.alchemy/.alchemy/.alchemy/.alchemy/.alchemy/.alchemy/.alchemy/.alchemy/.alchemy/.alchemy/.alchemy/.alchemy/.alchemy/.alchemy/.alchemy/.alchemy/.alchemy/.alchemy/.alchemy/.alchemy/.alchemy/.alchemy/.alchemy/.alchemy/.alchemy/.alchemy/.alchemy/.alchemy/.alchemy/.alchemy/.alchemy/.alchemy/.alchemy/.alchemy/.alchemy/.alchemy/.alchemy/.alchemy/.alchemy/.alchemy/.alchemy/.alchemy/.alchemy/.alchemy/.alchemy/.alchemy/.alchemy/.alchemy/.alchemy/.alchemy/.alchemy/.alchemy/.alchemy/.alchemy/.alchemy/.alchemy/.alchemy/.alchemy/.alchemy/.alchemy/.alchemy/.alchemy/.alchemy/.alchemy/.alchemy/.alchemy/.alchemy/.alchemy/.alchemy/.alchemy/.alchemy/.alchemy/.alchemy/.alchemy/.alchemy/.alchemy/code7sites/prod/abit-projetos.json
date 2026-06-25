@@ -4,7 +4,7 @@
   "fqn": "code7sites/prod/abit-projetos",
   "seq": 1,
   "data": {},
-  "status": "updated",
+  "status": "created",
   "output": {
     "Symbol(alchemy::ResourceKind)": "cloudflare::Worker",
     "Symbol(alchemy::ResourceID)": "abit-projetos",
@@ -16,10 +16,10 @@
     "apiToken": {
       "@secret": {
         "version": "v1",
-        "ciphertext": "yrf7tD0KTytSAwL9nOhmcKemVEUlb0x9eLQMfcaSA55SkLqDgw9auY88QBJaH5DRQNozQWY=",
-        "iv": "bCUYaJ9L4JA8sY8b",
-        "salt": "0Coy3F8/Oi/saftXyTZOkg==",
-        "tag": "14gFKeTqZ33XbVHD33njdg=="
+        "ciphertext": "rKZk817/J6a5+2NQuYa/RUjDH7ADOrv6yP7XDJZrgIQhWof7s0KdIosydsf4EPR8GPImWaY=",
+        "iv": "9q/aWtf+T05jfr8+",
+        "salt": "UABzNFgZ4HEgwTjN7lrIbw==",
+        "tag": "nfqPLnHxYJ0+n/eBrkDgkQ=="
       }
     },
     "noBundle": true,
@@ -53,7 +53,7 @@
       "@date": "2026-04-20T19:08:07.027Z"
     },
     "updatedAt": {
-      "@date": "2026-04-21T12:31:31.819Z"
+      "@date": "2026-04-20T19:08:07.027Z"
     },
     "url": "https://code7sites-abit-projetos-prod.code7tec.workers.dev"
   },
@@ -61,10 +61,10 @@
     "apiToken": {
       "@secret": {
         "version": "v1",
-        "ciphertext": "8Q2kmURWXJL3jC+lthojZKjpRsPTWnoSF+BbCL4LYd/dZ/XB5Gm131Nf3teXNntmmSpjBIA=",
-        "iv": "4aaA7jxYpH+SCRcu",
-        "salt": "kc86krO6NGFbch+vJYxIyw==",
-        "tag": "UO3cI/KG3ohPs9q2KjNmXw=="
+        "ciphertext": "H6DZQ8IrC3DXyHvtrhLc9pXrUVhG/comZfcAnN3QrDexX7QKAHIqnrI1p7qWQpToNlsZWlw=",
+        "iv": "X0iCq7Ua0/MC+ZkP",
+        "salt": "JTb1W9LOZo6iZ/Hp05scTw==",
+        "tag": "5f6ZY9Lj3GPLAE9a9rzw2w=="
       }
     },
     "noBundle": true,

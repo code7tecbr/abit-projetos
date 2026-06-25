@@ -129,6 +129,7 @@ declare global {
   const useAppConfig: typeof import('../../node_modules/nitropack/dist/runtime/internal/config').useAppConfig
   const useBase: typeof import('../../node_modules/h3').useBase
   const useEvent: typeof import('../../node_modules/nitropack/dist/runtime/internal/context').useEvent
+  const useImage: typeof import('../../node_modules/@nuxt/image/dist/runtime/server/utils/image').useImage
   const useNitroApp: typeof import('../../node_modules/nitropack/dist/runtime/internal/app').useNitroApp
   const useNitroOrigin: typeof import('../../node_modules/nuxt-site-config/dist/runtime/server/composables/useNitroOrigin').useNitroOrigin
   const useRuntimeConfig: typeof import('../../node_modules/nitropack/dist/runtime/internal/config').useRuntimeConfig
@@ -160,6 +161,7 @@ export { buildAssetsURL as __buildAssetsURL, publicAssetsURL as __publicAssetsUR
 export { defineAppConfig } from '/home/runner/work/_temp/my-sites-template/node_modules/@nuxt/nitro-server/dist/runtime/utils/config';
 export { defineSitemapEventHandler } from '/home/runner/work/_temp/my-sites-template/node_modules/@nuxtjs/sitemap/dist/runtime/server/composables/defineSitemapEventHandler';
 export { asSitemapUrl } from '/home/runner/work/_temp/my-sites-template/node_modules/@nuxtjs/sitemap/dist/runtime/server/composables/asSitemapUrl';
+export { useImage } from '/home/runner/work/_temp/my-sites-template/node_modules/@nuxt/image/dist/runtime/server/utils/image';
 export { getPathRobotConfig } from '/home/runner/work/_temp/my-sites-template/node_modules/@nuxtjs/sitemap/dist/runtime/server/robots-polyfill/getPathRobotConfig';
 export { getNitroOrigin } from '/home/runner/work/_temp/my-sites-template/node_modules/nuxt-site-config/dist/runtime/server/composables/getNitroOrigin';
 export { getSiteConfig } from '/home/runner/work/_temp/my-sites-template/node_modules/nuxt-site-config/dist/runtime/server/composables/getSiteConfig';
