@@ -88,7 +88,7 @@ function createHead(options = {}) {
 
 const NUXT_PAYLOAD_EXTRACTION = true;
 
-const appHead = {"meta":[{"name":"viewport","content":"width=device-width, initial-scale=1.0"},{"charset":"utf-8"}],"link":[{"rel":"icon","type":"image/x-icon","href":"/favicon.ico"},{"rel":"preconnect","href":"https://fonts.googleapis.com"},{"rel":"preconnect","href":"https://fonts.gstatic.com","crossorigin":""},{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;600;700&family=Barlow:wght@300;400;500;600&family=Barlow+Condensed:wght@400;600;700&display=swap"},{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"}],"style":[],"script":[],"noscript":[],"charset":"utf-8","viewport":"width=device-width, initial-scale=1.0","htmlAttrs":{"lang":"pt-BR"}};
+const appHead = {"meta":[{"name":"viewport","content":"width=device-width, initial-scale=1.0"},{"charset":"utf-8"}],"link":[{"rel":"icon","type":"image/x-icon","href":"/favicon.ico"},{"rel":"preconnect","href":"https://fonts.googleapis.com"},{"rel":"preconnect","href":"https://fonts.gstatic.com","crossorigin":""},{"rel":"preload","as":"style","href":"https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;600;700&family=Barlow:wght@300;400;500;600&family=Barlow+Condensed:wght@400;600;700&display=swap"},{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"}],"style":[],"script":[],"noscript":[],"charset":"utf-8","viewport":"width=device-width, initial-scale=1.0","htmlAttrs":{"lang":"pt-BR"}};
 
 const appRootTag = "div";
 
@@ -530,5 +530,5 @@ const renderer = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
   default: handler
 }, Symbol.toStringTag, { value: 'Module' }));
 
-export { useSeoMeta as a, baseURL as b, headSymbol as h, renderer as r, useHead as u };
+export { useHead as a, baseURL as b, headSymbol as h, renderer as r, useSeoMeta as u };
 //# sourceMappingURL=renderer.mjs.map
